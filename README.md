@@ -38,8 +38,8 @@ I'm studying in STU FEI <img src="https://www.orglabs.sk/wp-content/uploads/2020
 
 ### :fire: My Stats :
 </div>
-<div>
+<!-- <div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kurek99&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurek99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
