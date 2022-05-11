@@ -16,10 +16,10 @@
 
 ### :man_technologist: About Me :
 
-My name is Davi Kurek.
-I am 22 years old.
-I'm studying at an IT college.
-In my free time I focus on the front-end but I would like to try fullstack.
+My name is Davi Kurek.<br>
+I am 22 years old.<br>
+I'm studying at an IT college.<br>
+In my free time I focus on the front-end but I would like to try fullstack.<br>
 
 
 
