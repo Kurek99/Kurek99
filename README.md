@@ -16,8 +16,11 @@
 
 ### :man_technologist: About Me :
 
-I'm studying in STU FEI <img src="https://www.orglabs.sk/wp-content/uploads/2020/01/fei_800-2.png" width="100">
-  
+My name is Davi Kurek.
+I am 22 years old.
+I'm studying at an IT college.
+In my free time I focus on the front-end but I would like to try fullstack.
+
 
 
 ---
