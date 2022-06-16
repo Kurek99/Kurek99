@@ -5,7 +5,7 @@
   <br>
   <br>
   <h1>
-  Hi Im Dávid Kurek
+  Hi. I am Dávid Kurek
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
