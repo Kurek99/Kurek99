@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-My name is Davi Kurek.<br>
+My name is Dávid Kurek.<br>
 I am 22 years old.<br>
 I'm studying at an IT college.<br>
 In my free time I focus on the front-end but I would like to try fullstack.<br>
