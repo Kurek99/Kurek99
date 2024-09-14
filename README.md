@@ -17,7 +17,7 @@
 ### :man_technologist: About Me :
 
 My name is Dávid Kurek.<br>
-I am 23 years old.<br>
+I am 25 years old.<br>
 I'm studying at an IT college FEI STU.<br>
 In my free time I focus on the front-end but I would like to try fullstack.<br>
 
